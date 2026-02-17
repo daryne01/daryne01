@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 My name is Daryne – welcome to my GitHub!
 
-<!--
-**daryne01/daryne01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a Data Engineer with a strong interest in Machine Learning.  
+🔍 I design data pipelines, build ETL workflows, and work with cloud-based data platforms.  
+🌱 In my spare time, I work on open-source accessibility projects.  
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [datascienceportfol.io/bouadidaryne28](https://www.datascienceportfol.io/bouadidaryne28)  
+💼 **LinkedIn:** [linkedin.com/in/daryne-bouadi-06986723a](https://www.linkedin.com/in/daryne-bouadi-06986723a/)  
+📫 **Email:** bouadidaryne28@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,azure,aws,git,linux" />
+</p>
+
+
+### 📚 Libraries
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- PyTorch  
+- XGBoost  
+- PySpark  
+
